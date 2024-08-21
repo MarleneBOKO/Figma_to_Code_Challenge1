@@ -8,6 +8,8 @@
     <Navbar class="relative z-10" />
 
     <Content />
+    <div class="absolute   w-full h-px bg-[#E8E9EA] bottom-14 "></div>
+
     <Footer />
   </div>
 </template>
