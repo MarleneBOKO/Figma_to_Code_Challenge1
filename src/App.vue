@@ -8,7 +8,7 @@
     <Navbar class="relative z-10" />
 
     <Content />
-    <div class="absolute   w-full h-px bg-[#E8E9EA] bottom-14 "></div>
+    <div class="absolute   w-full h-px bg-[#E8E9EA] bottom-[86px]  lg:bottom-[55px]"></div>
 
     <Footer />
   </div>
